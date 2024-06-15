@@ -1,6 +1,6 @@
 # Neovim Configuration
 
-### Step 1: clone repo
+### Step 1: Clone repo
 ### Step 2: Go to terminal settings
   1. Unzip bg-imgs zip file
   2. Update background image and transparency settings
