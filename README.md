@@ -1,1 +1,2 @@
-** Neovim config as of 10/06/2024 ** 
+**Neovim config** as of 10/06/2024
+
