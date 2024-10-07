@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Neovim Configuration
 
 ### Step 1: Clone repo
@@ -8,3 +9,7 @@
   1. Add this line to ~/.bashrc
      ``` eval "$(oh-my-posh init bash --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/ys.omp.json')" ```
  
+=======
+**Neovim config** as of 10/06/2024
+
+>>>>>>> master
